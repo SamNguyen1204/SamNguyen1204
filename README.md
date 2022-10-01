@@ -14,5 +14,6 @@
 
 <h3>My Certificates</h3>
 
-<img src="CodeLearn_certification.png" width="600px">
+<img src="./Images/CodeLearn_certification.png" width="600px">
+<img src="./Images/Nguyen Hoang Phat"  width="600px">
 
