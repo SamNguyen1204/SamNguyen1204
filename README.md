@@ -8,3 +8,9 @@
 <img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
 <img src="https://img.icons8.com/office/96/000000/react.png"/>
 </p>
+
+
+
+<h3>My Certificates</h3>
+
+<img src="https://codelearn.io/certification/yja2mji3">
