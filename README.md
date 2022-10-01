@@ -13,7 +13,8 @@
 
 
 <h3>My Certificates</h3>
+<p align="center">
+<img src="./Images/CodeLearn_certification.png" width="300px">
+<img src="./Images/css.png"  width="300px">
 
-<img src="./Images/CodeLearn_certification.png" width="600px">
-<img src="./Images/css.png"  width="600px">
-
+</p>
