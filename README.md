@@ -1,7 +1,7 @@
 <h1 align="center">I'm Sam</h1>
 <h1 align="center">Nguyen Hoang Phat</h1>
 
-<img src="https://img.shields.io/github/watchers/SamNguyen1204/SamNguyen?style=social">
+
 
 <p align="center>
           
