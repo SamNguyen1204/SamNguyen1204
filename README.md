@@ -18,8 +18,8 @@
                                                             
 <p align="center">
                  
-<img src="./Images/CodeLearn_certification.png" width="300px">
-<img src="./Images/css.png"  width="300px">
-<img src="./Images/reactjs.png" width="300px">
+<img src="./Images/CodeLearn_certification.png" width="400px">
+<img src="./Images/css.png"  width="400px">
+<img src="./Images/reactjs.png" width="400px">
                                       
 </p>
